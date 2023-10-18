@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837546438219",
+    "project_id": "opinion-tracker-8309c",
+    "storage_bucket": "opinion-tracker-8309c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837546438219:android:9d002e8fce3f596ecde7ce",
+        "android_client_info": {
+          "package_name": "com.opinionstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837546438219-o5ug9ctv7snke4j8rqiklpfvchj7a06d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opinionstracker",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "837546438219-9gmkce6lmtel61ffk61iqqacv2krfoqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNDI1jrAXMvZz3fvP6h5EYvwQizREDJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837546438219-9gmkce6lmtel61ffk61iqqacv2krfoqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
