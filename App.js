@@ -323,7 +323,7 @@ export default function App() {
   }, [])
   return (
     <StripeProvider
-      publishableKey="pk_test_51KrzWmLEJCPE187BH8zHoK2eLvAwYfeSQIJB4iji9VqBsDs0qBYuPfTfTjZ6jaYXgm1E8HaLGZNyh9nUEvgN1Jtv00HXIjVdzg"
+      publishableKey=""
     >
       <Provider store={store}>
         <PersistGate persistor={persistor}>
